@@ -2,3 +2,7 @@
 a.active {
     font-weight: bold;
 }
+
+.mainimg {
+    border-radius: 50px;
+}
