@@ -7,17 +7,24 @@ body {
 }
 nav {
     background: #FFFFFF;
+    align-items: center;
+    display: flex;
+    height: 80px;
+    padding-left: 10px;
 }
 .userinfo {
     background: #FFFFFF;
     border-radius: 10px;
     width: 300px;
+    margin-left: 50px;
 }
+
 .socialfeed {
     background: #FFFFFF;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
     display: flex;
+    width: auto;
 }
 .mainimg {
     border-radius: 50px;
