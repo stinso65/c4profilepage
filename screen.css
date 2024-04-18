@@ -37,9 +37,47 @@ b {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-left: 365px;
+    margin-left: 350px;
+    margin-top: 50px;
+    width: 1080px;
     position: absolute;
 }
 .mainimg {
     border-radius: 50px;
+}
+.card1 {
+    padding: 20px;
+    max-width: 300px;
+    max-height: 450px;
+    position: absolute;
+}
+.card2 {
+    padding: 20px;
+    max-width: 300px;
+    max-height: 450px;
+    position: relative;
+}
+.card3 {
+    padding: 20px;
+    max-width: 300px;
+    max-height: 450px;
+    position: relative;
+}
+.card4 {
+    padding: 20px;
+    max-width: 300px;
+    max-height: 450px;
+    position: relative;
+}
+.card5 {
+    padding: 20px;
+    max-width: 300px;
+    max-height: 450px;
+    position: relative;
+}
+.card6 {
+    padding: 20px;
+    max-width: 300px;
+    max-height: 450px;
+    position: relative;
 }
