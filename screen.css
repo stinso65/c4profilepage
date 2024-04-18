@@ -17,6 +17,17 @@ nav {
     border-radius: 10px;
     width: 300px;
     margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: absolute;
+}
+.userinfo h2 {
+    text-align: center;
+    color: #0B2687;
+}
+b {
+    color: #0B2687;
 }
 
 .socialfeed {
@@ -24,7 +35,10 @@ nav {
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
     display: flex;
-    width: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 365px;
+    position: absolute;
 }
 .mainimg {
     border-radius: 50px;
