@@ -2,7 +2,23 @@
 a.active {
     font-weight: bold;
 }
-
+body {
+    background: #F5F5F5;
+}
+nav {
+    background: #FFFFFF;
+}
+.userinfo {
+    background: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+}
+.socialfeed {
+    background: #FFFFFF;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+}
 .mainimg {
     border-radius: 50px;
 }
