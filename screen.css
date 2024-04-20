@@ -34,7 +34,12 @@ nav {
 b {
     color: #0B2687;
 }
-
+button {
+    background-color: #FFFFFF;
+    border-color: #878787;
+    border-radius: 5px;
+    border-width: thin;
+}
 .socialfeed {
     background: #FFFFFF;
     border-bottom-right-radius: 10px;
