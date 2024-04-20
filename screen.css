@@ -11,6 +11,10 @@ nav {
     display: flex;
     height: 80px;
     padding-left: 10px;
+    width: 100%;
+}
+.hero {
+    width: 100%;
 }
 .userinfo {
     background: #FFFFFF;
@@ -22,6 +26,7 @@ nav {
     flex-wrap: wrap;
     position: absolute;
 }
+
 .userinfo h2 {
     text-align: center;
     color: #0B2687;
@@ -50,18 +55,42 @@ b {
     max-width: 300px;
     max-height: 450px;
     position: absolute;
+    margin-top: 30px;
+}
+.card1 img {
+    display: inline-block;
+}
+.card1 p {
+    display: inline-block;
+    text-align: center;
 }
 .card2 {
     padding: 20px;
     max-width: 300px;
     max-height: 450px;
     position: relative;
+    margin-top: 30px;
+}
+.card2 img {
+    display: inline-block;
+}
+.card2 p {
+    display: inline-block;
+    text-align: center;
 }
 .card3 {
     padding: 20px;
     max-width: 300px;
     max-height: 450px;
     position: relative;
+    margin-top: 30px;
+}
+.card3 img {
+    display: inline-block;
+}
+.card3 p {
+    display: inline-block;
+    text-align: center;
 }
 .card4 {
     padding: 20px;
@@ -69,15 +98,36 @@ b {
     max-height: 450px;
     position: relative;
 }
+.card4 img {
+    display: inline-block;
+}
+.card4 p {
+    display: inline-block;
+    text-align: center;
+}
 .card5 {
     padding: 20px;
     max-width: 300px;
     max-height: 450px;
     position: relative;
 }
+.card5 img {
+    display: inline-block;
+}
+.card5 p {
+    display: inline-block;
+    text-align: center;
+}
 .card6 {
     padding: 20px;
     max-width: 300px;
     max-height: 450px;
     position: relative;
+}
+.card6 img {
+    display: inline-block;
+}
+.card6 p {
+    display: inline-block;
+    text-align: center;
 }
