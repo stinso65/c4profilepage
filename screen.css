@@ -56,11 +56,11 @@ button {
     border-radius: 50px;
 }
 .card1 {
-    padding: 20px;
+    display: inline-block;
     max-width: 300px;
     max-height: 450px;
     position: absolute;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .card1 img {
     display: inline-block;
@@ -70,11 +70,11 @@ button {
     text-align: center;
 }
 .card2 {
-    padding: 20px;
+    display: inline-block;
     max-width: 300px;
     max-height: 450px;
     position: relative;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .card2 img {
     display: inline-block;
@@ -84,11 +84,11 @@ button {
     text-align: center;
 }
 .card3 {
-    padding: 20px;
+    display: inline-block;
     max-width: 300px;
     max-height: 450px;
     position: relative;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .card3 img {
     display: inline-block;
@@ -98,7 +98,7 @@ button {
     text-align: center;
 }
 .card4 {
-    padding: 20px;
+    display: inline-block;
     max-width: 300px;
     max-height: 450px;
     position: relative;
@@ -111,7 +111,7 @@ button {
     text-align: center;
 }
 .card5 {
-    padding: 20px;
+    display: inline-block;
     max-width: 300px;
     max-height: 450px;
     position: relative;
@@ -124,7 +124,7 @@ button {
     text-align: center;
 }
 .card6 {
-    padding: 20px;
+    display: inline-block;
     max-width: 300px;
     max-height: 450px;
     position: relative;
